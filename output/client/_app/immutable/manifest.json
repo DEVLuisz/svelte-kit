@@ -1,0 +1,104 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-5a9dea50.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-472f31ff.js",
+      "_index-9ad4a0e1.js",
+      "_singletons-d1fb5791.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/receitas.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-a64b09d7.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-472f31ff.js",
+      "_Tag-f3cba5f8.js",
+      "_index-9ad4a0e1.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-04666acc.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-f7afd553.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-472f31ff.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-f24acd1d.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-472f31ff.js",
+      "_TagLink-965f4e93.js",
+      "_Tag-f3cba5f8.js",
+      "_singletons-d1fb5791.js",
+      "_index-9ad4a0e1.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-34dcea36.css"
+    ]
+  },
+  "src/routes/receitas.svelte": {
+    "file": "pages/receitas.svelte-45ad4970.js",
+    "src": "src/routes/receitas.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-472f31ff.js",
+      "_TagLink-965f4e93.js",
+      "_Tag-f3cba5f8.js",
+      "_index-9ad4a0e1.js"
+    ],
+    "css": [
+      "assets/pages/receitas.svelte-7f4d3968.css"
+    ]
+  },
+  "_index-472f31ff.js": {
+    "file": "chunks/index-472f31ff.js"
+  },
+  "_index-9ad4a0e1.js": {
+    "file": "chunks/index-9ad4a0e1.js",
+    "imports": [
+      "_index-472f31ff.js"
+    ]
+  },
+  "_singletons-d1fb5791.js": {
+    "file": "chunks/singletons-d1fb5791.js"
+  },
+  "_Tag-f3cba5f8.js": {
+    "file": "chunks/Tag-f3cba5f8.js",
+    "imports": [
+      "_index-9ad4a0e1.js",
+      "_index-472f31ff.js"
+    ],
+    "css": [
+      "assets/Tag-318c16db.css"
+    ]
+  },
+  "_TagLink-965f4e93.js": {
+    "file": "chunks/TagLink-965f4e93.js",
+    "imports": [
+      "_index-472f31ff.js",
+      "_Tag-f3cba5f8.js"
+    ],
+    "css": [
+      "assets/TagLink-5fde30f8.css"
+    ]
+  }
+}
